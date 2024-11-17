@@ -5,6 +5,11 @@ A simple plugin that applies experience penalties when players die on Endstone S
 ## Requirements
 - [Endstone 5.0](https://github.com/EndstoneMC/endstone)
 
+## Installation
+- Download the latest `release`.
+- Drag and drop both files ending with `.whl` into your Endstone plugin folder.
+- Restart or reload your server. Enjoy!
+
 ## Default Configuration
 
 ```plaintext
