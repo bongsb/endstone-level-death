@@ -10,8 +10,12 @@ authors = [
     { name = "Bongsb", email = "admin@konmc.lol" },
 ]
 readme = "README.md"
+requires-python = ">=3.10"
 license = { file = "LICENSE" }
 keywords = ["endstone", "plugin", "Level"]
+
+[project.urls]
+Homepage = "https://github.com/bongsb/endstone-level-death"
 
 [project.entry-points."endstone"]
 level-death = "endstone_level_death:LevelDeathPenalty"
